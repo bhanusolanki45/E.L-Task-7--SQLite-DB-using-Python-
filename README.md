@@ -1,9 +1,9 @@
 # E.L-Task-7--SQLite-DB-using-Python-
 
-🔍 ##Project Insight: SQLite Sales Summary using Python
+## 🔍 Project Insight: SQLite Sales Summary using Python
 In this project, I developed a Python-based solution to connect, query, and analyze sales data stored in a SQLite database. The goal was to automate the process of generating summary reports from transactional data.
 
-🧠 ##Key Insights:
+## 🧠 Key Insights:
 Used SQLite and Python (sqlite3 module) to manage and query sales data efficiently.
 
 Extracted and summarized key business metrics such as total revenue, product-wise sales, and region-wise performance.
